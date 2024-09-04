@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NbaStatsApplication<nba-stats>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.travis.nba.nba_stats.NbaStatsApplication",
+            "projectName": "nba-stats",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
